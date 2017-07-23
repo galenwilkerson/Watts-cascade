@@ -1,4 +1,8 @@
 
+
+# author:  Galen J. Wilkerson
+# gjwilkerson@gmail.com
+# July 23, 2017
 ##################################################################
 
 # function to initialize network

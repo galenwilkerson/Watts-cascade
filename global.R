@@ -1,3 +1,8 @@
+# author:  Galen J. Wilkerson
+# gjwilkerson@gmail.com
+# July 23, 2017
+##################################################################
+
 library(shiny)
 library(igraph)
 library(ggplot2)

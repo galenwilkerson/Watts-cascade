@@ -1,5 +1,8 @@
-
+# author:  Galen J. Wilkerson
+# gjwilkerson@gmail.com
+# July 23, 2017
 ##################################################################
+
 
 layout_choices = c("force-directed", "grid", "random")
 

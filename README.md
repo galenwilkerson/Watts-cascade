@@ -1,0 +1,9 @@
+# Watts-cascade
+
+This is a shiny-server implementation of Duncan Watts' Cascade model.  Basic network statistics are displayed.
+
+Note, you must stop running the current cascade to change settings and create a new network.
+
+Watts, Duncan J. "A simple model of global cascades on random networks." Proceedings of the National Academy of Sciences 99.9 (2002): 5766-5771.
+
+http://www.pnas.org/content/99/9/5766.short
